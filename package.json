@@ -1,0 +1,42 @@
+{
+  "name": "inception_ep1",
+  "version": "1.0.0",
+  "description": "Namaste React js course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NagarajanSanthosh/namaste-reactjs.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "akshay",
+    "saini",
+    "santhosh",
+    "nagarajan",
+    "santhosh",
+    "web",
+    "development",
+    "frontend",
+    "development"
+  ],
+  "author": "Santhosh Nagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NagarajanSanthosh/namaste-reactjs/issues"
+  },
+  "homepage": "https://github.com/NagarajanSanthosh/namaste-reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }, 
+  "browserslist": [
+    "last 10 versions"
+  ]
+}
